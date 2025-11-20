@@ -21,5 +21,5 @@ Secure the access layer by enabling DHCP Snooping, Dynamic ARP Inspection (DAI),
 4. Configure port security on access ports (max 2 MAC addresses, shutdown on violation).
 5. Verify DHCP bindings, DAI statistics, and port security using show commands.
 
-*Ref 1: Network Diagram*  
-![Network Diagram](imgsrc)
+## Network topology
+<img width="285" height="452" alt="image" src="https://github.com/user-attachments/assets/8ab63c5d-3798-492c-b4d0-041b03e0e27c" />
